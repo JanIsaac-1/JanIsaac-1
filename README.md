@@ -5,7 +5,8 @@ I love coding and experimenting with modern technologies.
  🌱 I’m currently learning javascript and have done some java and c++
 
 ## Daily Habits 
-Cording 
+Coading 
+
 Gaming
 
 <!--
