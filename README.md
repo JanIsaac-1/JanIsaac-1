@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+I'm a computer science student from Kenya passionate about coding.
+I love coding and experimenting with modern technologies.
+ 🌱 I’m currently learning javascript and have done some java and c++
+
+## Daily Habits 
+Cording 
+Gaming
+
 <!--
 **JanIsaac-1/JanIsaac-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
