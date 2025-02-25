@@ -2,7 +2,12 @@
 
 I'm a computer science student from Kenya passionate about coding.
 I love coding and experimenting with modern technologies.
- 🌱 I’m currently learning javascript and have done some java and c++
+
+ 🌱 I’m currently learning javascript and i'm farmiliar with - java
+                                                             -node js
+                                                             -c++
+                                                             -html and css
+                                
 
 ## Daily Habits 
 Coding 
