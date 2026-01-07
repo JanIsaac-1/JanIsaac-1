@@ -8,6 +8,7 @@ I love coding and experimenting with modern technologies.
    -node js
    -c++
    -html and css
+   -and python
                                 
 
 ## Daily Habits 
