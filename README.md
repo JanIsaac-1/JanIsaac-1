@@ -77,7 +77,7 @@ My work ranges from building AI-powered applications and database-driven systems
 # Connect With Me
 
 * 💼 LinkedIn: YOUR_LINKEDIN
-* 📧 Email: jano8995@gmail.com
+* 📧 Email: jano89995@gmail.com
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f0c29&height=100&section=footer" />
